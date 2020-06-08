@@ -1,16 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 05/21/2017
- * File: BSTree.java
- * 
- * This is a class that implements the BSTree structure with
- * BSTNode, BSTree and Iterator classes. The height, specific key 
- * and count of leaves will change after insertion. Information 
- * can also be read inside the nodes of the trees.
- */
-
 package hw7;
 
 import java.util.*;
