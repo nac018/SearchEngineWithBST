@@ -1,14 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 05/21/2017
- * File: SearchEngine.java
- * 
- * This is a class that implements a simple search engine
- * with the methods we implement in BSTree.java.
- */
-
 package hw7;
 
 import java.io.File;
