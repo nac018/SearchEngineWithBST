@@ -1,13 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 05/21/2017
- * File: BSTreeTester.java
- * 
- * This is a tester class that tests the methods in BSTreeTester.java.
- */
-
 package hw7;
 
 import static org.junit.Assert.*;
